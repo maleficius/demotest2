@@ -7,12 +7,12 @@ module.exports = {
         password: '',
         database: 'qldd'
     },
-     db_postgres: {
-        host: 'ec2-50-17-246-114.compute-1.amazonaws.com',
-        user: 'zhtzitfpjaggjo',
-        password: '0498a1b2780fd23e5277b3e3ff1cc035b0a1b94a40eb70c6f8ea65b4f456f146',
+    db_postgres: {
+        host: 'ec2-54-83-61-142.compute-1.amazonaws.com',
+        user: 'eqblujxlhsfmaa',
+        password: '23b935d47dc0a4fa9e8a09ba39dc095c1a75bf692b6f76231b85c55bbffad865',
         port:'5432',
-        database: 'dermt0n2fuupur'
+        database: 'd7ah8f0hgt6f6j'
     },
     //db_postgres: {
     //    host: 'localhost',
